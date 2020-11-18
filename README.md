@@ -1,4 +1,4 @@
-# deep-thoughts
+# Deep Thoughts
 
 # My Project
 Social Media App
